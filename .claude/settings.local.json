@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nAdd Todo app with Zustand, themes, and stretch goals\n\n- Zustand store with persist middleware for state management\n- Add, remove, toggle tasks with timestamps \\(date-fns\\)\n- Filter tasks: All, Active, Completed\n- Complete All button\n- 4 themes: Coffee \\(light\\), Dark, Banana, Sky\n- Unique EmptyState for each theme\n- Local storage persistence\n- Responsive design with styled-components\n- Montserrat font\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
+    ]
+  }
+}
