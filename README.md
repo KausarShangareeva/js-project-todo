@@ -7,7 +7,7 @@ This project features **multiple themes**, **local storage persistence**, and a 
 
 ## 🔗 Demo
 
-Check out the project live: [Todo App on Netlify](#)
+Check out the project live: [Todo App on Netlify](https://todo-zustand.netlify.app/)
 
 ---
 
